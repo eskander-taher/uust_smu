@@ -1,0 +1,11 @@
+{
+	"name": "uust_smu",
+	"version": "1.0.0",
+	"description": "website for managing the COUNCIL OF YOUNG SCIENTISTS in ufa university of science and technology",
+	"main": "server/index.js",
+	"scripts": {
+		"server": "node --watch server/index.js"
+	},
+	"author": "Eskander Alshaibani",
+	"license": "MIT"
+}
